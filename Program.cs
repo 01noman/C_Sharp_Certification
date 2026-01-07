@@ -16,6 +16,10 @@
         //Ternary_operator.Show();
         //vowel_constant.Show();
         //vowel_constant_switch.Show();
-        weeked_or_weekend.Show();
+        //weeked_or_weekend.Show();
+        //switch_pattern_type.Show();
+        //switch_with_condition.Show();
+        //switch_with_condition2.Show();
+        project1_Temperature_Converter.Show();
     }
 }
